@@ -1,0 +1,14 @@
+.container-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1,
+h2 {
+  color: crimson;
+}
+h3,
+h4 {
+  color: blueviolet;
+}
